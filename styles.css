@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+a {
+    color:rgb(0, 153, 255);
+}
+
+a:visited {
+    color:red
+}
+
+a:hover {
+    color:rgb(255, 0, 217)
+}
+
+a:active {
+    color: blueviolet;
+}
+
+a:focus {
+    color: black;
+    outline: 4px solid blueviolet;
+}
+
+
+
